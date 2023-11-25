@@ -14,14 +14,14 @@ Data and Approach:
 * The key outcome variable is 'Converted', indicating past lead conversions.
 * The dataset includes categorical variables with a level named 'Select', which is analogous to a null value and needs special attention.
 Case Study Goals:
-*                 Construct a logistic regression model to assign lead scores from 0 to 100.
-*                 Ensure the model is adaptable to future changes in the company's requirements.
-*                 Complete the provided document based on the model's outcomes.
+* Construct a logistic regression model to assign lead scores from 0 to 100.
+* Ensure the model is adaptable to future changes in the company's requirements.
+* Complete the provided document based on the model's outcomes.
 Expected Deliverables:
 * A comprehensive Jupyter notebook featuring the logistic regression model, conversion predictions, and evaluation metrics.
 * A Word document addressing the additional problems set by the company.
-   * A final presentation detailing:
-   * The problem statement and analytical approach.
-   * Business interpretations of the results.
-   * Key visualizations and summaries of crucial findings.
+* A final presentation detailing:
+* The problem statement and analytical approach.
+* Business interpretations of the results.
+* Key visualizations and summaries of crucial findings.
 * A concise 500-word report summarizing the approach, methodology, and key learnings from the assignment.
